@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        if(false == isConnected()){
+        if(!isConnected()){
             Toast.makeText(this, "인터넷이 연결되지 않았습니다. 이 FMB 앱은 인터넷 연결이 필요합니다.", Toast.LENGTH_LONG).show();
             return;
         }
