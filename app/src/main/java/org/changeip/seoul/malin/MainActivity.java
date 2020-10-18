@@ -58,7 +58,6 @@ public class MainActivity extends AppCompatActivity {
         NetworkInfo activeNetWork = cm.getActiveNetworkInfo();
         boolean isConnected = activeNetWork != null && activeNetWork.isConnectedOrConnecting();
 
-
         return isConnected;
 
     }
