@@ -73,11 +73,11 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/david/.gradl
 	android:supportsRtl
 		ADDED from /Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from /Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:12:9-41
+		ADDED from /Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:12:9-42
 	android:roundIcon
-		ADDED from /Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:13:9-54
+		ADDED from /Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:13:9-60
 	android:icon
-		ADDED from /Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from /Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:11:9-49
 	android:allowBackup
 		ADDED from /Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
