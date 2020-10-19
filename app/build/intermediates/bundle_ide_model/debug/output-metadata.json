@@ -10,7 +10,7 @@
     {
       "type": "SINGLE",
       "filters": [],
-      "outputFile": "../../../outputs/bundle/debug/app-debug.aab"
+      "outputFile": "../../../../debug/app-debug.aab"
     }
   ]
 }

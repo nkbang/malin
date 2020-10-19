@@ -1,5 +1,6 @@
 package org.changeip.seoul.malin;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
@@ -16,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     //웹뷰용으로 삽입
     private WebView myWebView;
 
+    @SuppressLint("SetJavaScriptEnabled")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -34,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                 break;
 
             case ConnectivityManager.TYPE_MOBILE:
-                Toast.makeText(this, "모바일 데이터를 연결하셨군요.", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "모바일 데이터를 연결하셨군요. 데이터를 사용합니다.", Toast.LENGTH_SHORT).show();
                 break;
 
             default:

@@ -16,8 +16,9 @@
         android:allowBackup="true"
         android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:debuggable="true"
+        android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher_share"
-        android:label="FMB 여행신청 v. 1.0.3"
+        android:label="FMB 여행신청   ver 1.0.3"
         android:roundIcon="@mipmap/ic_launcher_share_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
