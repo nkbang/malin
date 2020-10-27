@@ -1,6 +1,6 @@
 org/changeip/seoul/malin/HttpMgrThread.java
  org.changeip.seoul.malin.HttpMgrThread
-org/changeip/seoul/malin/MainActivity.java
- org.changeip.seoul.malin.MainActivity
 org/changeip/seoul/malin/BuildConfig.java
  org.changeip.seoul.malin.BuildConfig
+org/changeip/seoul/malin/MainActivity.java
+ org.changeip.seoul.malin.MainActivity

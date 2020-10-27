@@ -21,7 +21,7 @@
 13-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:7:22-76
 14
 15    <application
-15-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:9:5-23:19
+15-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:9:5-30:19
 16        android:allowBackup="true"
 16-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:10:9-35
 17        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
@@ -29,30 +29,31 @@
 18        android:debuggable="true"
 19        android:fullBackupContent="true"
 19-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:11:9-41
-20        android:icon="@mipmap/ic_launcher_share"
-20-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:12:9-49
+20        android:icon="@drawable/ic_launcher_share_foreground"
+20-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:12:9-62
 21        android:label="FMB 여행신청   ver 1.0.3"
 21-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:13:9-45
-22        android:roundIcon="@mipmap/ic_launcher_share_round"
-22-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:14:9-60
+22        android:roundIcon="@drawable/ic_launcher_share_foreground"
+22-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:14:9-67
 23        android:supportsRtl="true"
 23-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:15:9-35
-24        android:theme="@style/AppTheme" >
-24-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:16:9-40
-25        <activity android:name="org.changeip.seoul.malin.MainActivity" >
-25-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:17:9-22:20
-25-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:17:19-47
-26            <intent-filter>
-26-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:18:13-21:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:19:17-69
-27-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:19:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:20:17-77
-29-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:20:27-74
-30            </intent-filter>
-31        </activity>
-32    </application>
-33
-34</manifest>
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:16:9-40
+26        <activity android:name="org.changeip.seoul.malin.MainActivity" >
+26-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:18:9-28:20
+26-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:18:19-47
+27            <intent-filter>
+27-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:20:13-26:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:22:17-69
+28-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:22:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:24:17-77
+30-->/Users/david/AndroidStudioProjects/Malin/app/src/main/AndroidManifest.xml:24:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>

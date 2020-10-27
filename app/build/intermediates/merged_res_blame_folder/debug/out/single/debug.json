@@ -8,12 +8,12 @@
         "source": "/Users/david/AndroidStudioProjects/Malin/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_share_foreground.png"
     },
     {
-        "merged": "/Users/david/AndroidStudioProjects/Malin/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/david/AndroidStudioProjects/Malin/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/david/AndroidStudioProjects/Malin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_share_foreground.xml.flat",
         "source": "/Users/david/AndroidStudioProjects/Malin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_share_foreground.xml"
+    },
+    {
+        "merged": "/Users/david/AndroidStudioProjects/Malin/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/david/AndroidStudioProjects/Malin/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/david/AndroidStudioProjects/Malin/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_share_foreground.png.flat",
@@ -28,20 +28,20 @@
         "source": "/Users/david/AndroidStudioProjects/Malin/app/src/main/res/mipmap-mdpi/ic_launcher_share.png"
     },
     {
-        "merged": "/Users/david/AndroidStudioProjects/Malin/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/david/AndroidStudioProjects/Malin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/david/AndroidStudioProjects/Malin/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_share_round.png.flat",
         "source": "/Users/david/AndroidStudioProjects/Malin/app/src/main/res/mipmap-xhdpi/ic_launcher_share_round.png"
     },
     {
-        "merged": "/Users/david/AndroidStudioProjects/Malin/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/david/AndroidStudioProjects/Malin/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/david/AndroidStudioProjects/Malin/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/david/AndroidStudioProjects/Malin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/david/AndroidStudioProjects/Malin/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_share_foreground.png.flat",
         "source": "/Users/david/AndroidStudioProjects/Malin/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_share_foreground.png"
+    },
+    {
+        "merged": "/Users/david/AndroidStudioProjects/Malin/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/david/AndroidStudioProjects/Malin/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/david/AndroidStudioProjects/Malin/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_share_round.png.flat",
